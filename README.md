@@ -49,7 +49,7 @@
         ┌────────────┴────────────┐
         │                         │
         ▼                         ▼
- User Query               Similarity Search
+    User Query           Similarity Search
         │                         │
         └────────────┬────────────┘
                      ▼
