@@ -89,7 +89,7 @@
   ├── README.md           # Project documentation
 
 # ⚙️ Installation
-  git clone https://github.com/your-username/rag-pdf-chatbot.git
+  https://github.com/shakeraafreen12-maker/RAG_CHATBOT/commit/8edd4c9991baa363b8c092dae02ba03265f8d0a2
   cd rag-pdf-chatbot 
   
 # 🔍 Working Principle :
