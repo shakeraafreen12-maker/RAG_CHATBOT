@@ -8,10 +8,15 @@
 # ✨ Key Highlights:
 
   📄 Understands and processes unstructured PDF documents
+  
   🔍 Retrieves semantically relevant information using vector search
+  
   🤖 Generates context-aware answers using a lightweight LLM
+  
   💸 No dependency on paid APIs (fully open-source stack)
+  
   ⚡ Fast and efficient retrieval with ChromaDB
+  
   🧩 Modular pipeline (easy to extend and customize)
 
 # 🏗️ System Architecture 
@@ -59,21 +64,29 @@
                      ▼
                 Final Answer
 
+
 # 🛠️ Tech Stack :
 # Category	       Technology
-   Language	          Python
+   Language	            Python
+   
    Framework	          LangChain
-   Vector Database        ChromaDB
+   
+   Vector Database      ChromaDB
+   
    Embeddings	          Sentence Transformers
-   Language Model  	  FLAN-T5 (Hugging Face)
+   
+   Language Model    	  FLAN-T5 (Hugging Face)
+   
    Model Hub	          Hugging Face
 
 # 📂 Project Structure   
    rag-pdf-chatbot/
   │
-  ├── app.py              # Core application logic
-  ├── requirements.txt   # Required libraries
-  ├── README.md          # Project documentation
+  ├── app.py      # Core application logic
+  
+  ├── requirements.txt    # Required libraries
+  
+  ├── README.md           # Project documentation
 
 # ⚙️ Installation
   git clone https://github.com/your-username/rag-pdf-chatbot.git
